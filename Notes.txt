@@ -1,0 +1,6 @@
+u can use props to make sure u use that component anywhere u want.
+use title="xyz"
+in the component add it as the props,props.title.
+last line in navbar which says proptype is for telling the datatye of the valuee sent in the props.
+
+use of states is to change the page states. similar to spline
